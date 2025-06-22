@@ -192,3 +192,9 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+/libribrain/*
+/libribrain_env/*
+/lightning_logs/*
+libribrain/
+libribrain_env
+lightning_logs
