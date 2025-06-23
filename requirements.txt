@@ -1,0 +1,41 @@
+# LibriBrain Competition - Speech Detection Dependencies
+
+# Core ML libraries
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+lightning>=2.0.0
+torchmetrics>=0.11.0
+
+# Data science and analysis
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.15.0
+seaborn>=0.12.0
+
+# Interactive widgets
+ipywidgets>=8.0.0
+
+# MEG/EEG processing
+mne>=1.4.0
+
+# HDF5 support
+h5py>=3.8.0
+
+# Progress bars and utilities
+tqdm>=4.65.0
+
+# PNPL package for LibriBrain dataset
+pnpl
+
+# Jupyter support
+jupyter>=1.0.0
+ipykernel>=6.23.0
+
+# Additional utilities
+requests>=2.31.0

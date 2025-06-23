@@ -1,0 +1,32 @@
+{
+  "processing_info": {
+    "source_task": "Sherlock1",
+    "source_session": "1",
+    "normalize_data": true,
+    "normalization_method": "zscore",
+    "interpolation_method": "linear",
+    "csv_precision": 6
+  },
+  "meg_data": {
+    "original_shape": [
+      306,
+      278000
+    ],
+    "original_sfreq": "249.99998",
+    "processed_sfreq": "249.99998",
+    "n_channels": 306,
+    "channel_names": null
+  },
+  "events_data": {
+    "n_events": 12806,
+    "event_types": [
+      "silence",
+      "word",
+      "phoneme"
+    ],
+    "time_range": [
+      28.772,
+      1098.558
+    ]
+  }
+}
