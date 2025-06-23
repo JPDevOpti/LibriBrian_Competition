@@ -198,3 +198,12 @@ cython_debug/
 libribrain/
 libribrain_env
 lightning_logs
+0-Tutorial/Tutorial_LibriBrain_Competion.ipynb
+1-Preprocesamiento/Sherlock1_ses-1_meg_events_original_metadata.json
+1-Preprocesamiento/Sherlock1_ses-1_meg_events_original.csv
+1-Preprocesamiento/Sherlock1_ses-1_spectral_analysis_results.json
+1-Preprocesamiento/Sherlock1_ses-2_meg_events_original_metadata.json
+1-Preprocesamiento/Sherlock1_ses-2_meg_events_original.csv
+1-Preprocesamiento/Sherlock1_ses-2_spectral_analysis_results.json
+0-Tutorial/Tutorial_LibriBrain_Competion.ipynb
+2-Entrenamiento/waves.csv
